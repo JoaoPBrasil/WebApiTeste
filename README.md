@@ -22,9 +22,9 @@ API RESTful simples desenvolvida com ASP.NET Core 7.0, exemplificando práticas 
 
 ### 🧩 Estrutura do Projeto
 
-- **Controllers: Controladores da API
-- **Services: Lógica de negócio
-- **Models: Entidades e DTOs
-- **Dta: Contexto do banco de dados e migrações
-- **Properties: Configurações do projeto
-- **Program.cs: Configuração da aplicação
+- Controllers: Controladores da API
+- Services: Lógica de negócio
+- Models: Entidades e DTOs
+- Dta: Contexto do banco de dados e migrações
+- Properties: Configurações do projeto
+- Program.cs: Configuração da aplicação
