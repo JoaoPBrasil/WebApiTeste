@@ -1,8 +1,8 @@
 # WebApiTeste
 
-API RESTful simples desenvolvida com ASP.NET Core 7.0, exemplificando práticas comuns em APIs modernas.
+A simple RESTful API developed with ASP.NET Core 7.0, demonstrating common practices in modern APIs.
 
-## 🔧 Tecnologias Utilizadas
+## 🔧 Technologies Used
 
 - **ASP.NET Core 7.0**
 - **Entity Framework Core**
@@ -11,20 +11,20 @@ API RESTful simples desenvolvida com ASP.NET Core 7.0, exemplificando práticas 
 - **AutoMapper**
 - **FluentValidation**
 - **Serilog**
-- **Docker** (opcional)
+- **Docker** (optional)
 
-## 🚀 Como Rodar o Projeto
+## 🚀 Project Structure
 
-### Pré-requisitos
+### Prerequisites
 
-- **.NET SDK 7.0** ou superior
-- **SQL Server** ou **Docker**
+- **.NET SDK 7.0** or higher
+- **SQL Server** or **Docker**
 
-### 🧩 Estrutura do Projeto
+### Structure
 
-- Controllers: Controladores da API
-- Services: Lógica de negócio
-- Models: Entidades e DTOs
-- Dta: Contexto do banco de dados e migrações
-- Properties: Configurações do projeto
-- Program.cs: Configuração da aplicação
+- **Controllers**: API controllers
+- **Services**: Business logic
+- **Models**: Entities and DTOs
+- **Data**: Database context and migrations
+- **Properties**: Project settings
+- **Program.cs**: Application configuration
